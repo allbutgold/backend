@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  color: darkcyan;
+}
+
+section form input {
+  margin-left: 10px;
+  width: 100px;
+}
+section form button{
+  margin-left: 10px;
+  margin-top: 10px;
+  background-color: darkcyan;
+}
+
+main div {
+  width: 900px;
+  border: 2px solid white;
+  margin: 50px auto 50px auto;
+  display: flex;
+  justify-content: center;
+}
+
+main div p {
+  padding: 20px;
+}
+
